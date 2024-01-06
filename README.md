@@ -20,7 +20,7 @@ A user-friendly to-do list web application built to streamline task management, 
 - JavaScript
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone or download the repository: `https://github.com/oluyalireuben/Todo_List`
 2. Open `index.html` in your preferred web browser.
 
 ## Usage
