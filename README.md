@@ -34,5 +34,4 @@ Include screenshots or GIFs showcasing the application's interface and functiona
 ## Contributing
 Feel free to contribute to enhance the functionality or fix any issues. Open a pull request!
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
