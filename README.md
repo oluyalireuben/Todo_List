@@ -5,9 +5,6 @@ Easily add, edit, and check off tasks in an intuitive interface.
 Built with HTML, CSS and JS, this project showcases the power of simplicity in task management. 
 Start organizing your day effortlessly with this lightweight and customizable to-do list app."
 
-#### cont...
-
-A user-friendly to-do list web application built to streamline task management, enhance organization, and boost productivity. This lightweight and customizable app allows users to effortlessly add, edit, and check off tasks in an intuitive interface.
 
 ## Features
 - **Add Tasks:** Quickly add new tasks to your to-do list.
