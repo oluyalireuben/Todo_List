@@ -29,7 +29,7 @@ A user-friendly to-do list web application built to streamline task management, 
 3. Customize your to-do list and stay organized effortlessly.
 
 ## Demo
-Include screenshots or GIFs showcasing the application's interface and functionality.
+
 
 ## Contributing
 Feel free to contribute to enhance the functionality or fix any issues. Open a pull request!
